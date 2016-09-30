@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Hugo'
 SITENAME = 'Hugo Alvarado'
-SITEURL = 'http://hugoalvarado.github.io'
+SITEURL = 'https://hugoalvarado.github.io'
 
 PATH = 'content'
 
@@ -27,11 +27,15 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/_hugoalvarado'),
-		  ('Github', 'https://github.com/hugoalvarado'),
-          ('Linkedin', 'https://cr.linkedin.com/in/hugoalvarado'),)
+SOCIAL = (('email', 'hugo102@gmail.com'),
+		 ('twitter', 'https://twitter.com/_hugoalvarado'),
+		  ('github', 'https://github.com/hugoalvarado'),
+          ('linkedin', 'https://cr.linkedin.com/in/hugoalvarado'),)
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
+
+BIO = "Hello! I'm Hugo Alvarado, working as Software Engineer, living in a cave."
+PROFILE_IMAGE = "avatar.jpg"

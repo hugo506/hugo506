@@ -37,5 +37,7 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-BIO = "Hello! I'm Hugo Alvarado, working as Software Engineer, living in a cave."
+BIO = "Hello! I'm Hugo Alvarado, working as Software Engineer, living deep in the jungle of data and pythons."
 PROFILE_IMAGE = "avatar.jpg"
+
+GOOGLE_ANALYTICS = 'UA-85097254-1'

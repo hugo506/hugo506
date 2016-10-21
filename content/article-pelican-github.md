@@ -6,8 +6,7 @@ Slug: pelican-site-github
 Summary: Setting up a Pelican site with GitHub
 
 
-Setting up a Pelican site with GitHub
-===================
+
 My initial hugoalvarado.github.io page used the standard github pages system and themes but I recently went with the Pelican Site Generator.
 
 My first step was to follow the [quickstart](http://docs.getpelican.com/en/3.6.3/quickstart.html) on the getpelican site. It was easy to follow and after setting up my pelican site locally I uploaded the whole site source to my hugoalvarado.github.io git repository. 

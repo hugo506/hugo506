@@ -6,8 +6,6 @@ Slug: build-a-game-bot
 Summary: Quick Comments on Sirajology's "Build a Game Bot" Youtube video
 
 
-Quick Comments on Sirajology's "Build a Game Bot" Youtube video
-===================
 
 [Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) has a series of videos explaining complex data science concepts in an energetic, funny, quick and to the point fashion.
 

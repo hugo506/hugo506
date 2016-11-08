@@ -3,7 +3,7 @@ Date: 2015-10-17 08:00
 Tags: parse.js, startup
 Category: Tech
 Slug: overcome-parse-js-query-time
-Summary: parse.com time limit
+Summary: 
 
 
 Parse.com has some sensible (for them) limits on queries to ensure services run smoothly on their end.

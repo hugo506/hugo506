@@ -3,7 +3,7 @@ Date: 2016-10-20 08:00
 Tags: Laravel, Homestead
 Category: Tech
 Slug: laravel-container-setup-commands
-Summary: Laravel Homestead Container Commands
+Summary: 
 
 
 These are some of the commands and steps I regularly use when starting a homestead Docker container based Lumen or Laravel project. 

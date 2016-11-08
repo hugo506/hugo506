@@ -3,7 +3,7 @@ Date: 2016-10-15 08:00
 Tags: openai
 Category: Tech
 Slug: build-a-game-bot
-Summary: Quick Comments on Sirajology's "Build a Game Bot" Youtube video
+Summary: 
 
 
 

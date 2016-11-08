@@ -3,7 +3,7 @@ Date: 2016-10-07 08:00
 Tags: parse.js, startup
 Category: Tech
 Slug: pelican-site-github
-Summary: Setting up a Pelican site with GitHub
+Summary: 
 
 
 

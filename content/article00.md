@@ -3,7 +3,7 @@ Date: 2008-08-28 08:00
 Tags: 
 Category: 
 Slug: edmund-gold
-Summary:  Edmund's gold
+Summary: 
 
 
 Let me tell you about Edmund. 

@@ -1,5 +1,5 @@
 Title: Getting the IP of a running Docker Container
-Date: 2016-11-12 08:00
+Date: 2016-12-16 08:00
 Tags: Docker, Vagrant, networking, dhcp
 Category: Tech
 Slug: get-docker-ip
@@ -40,7 +40,7 @@ vagrant@ubuntu-14:~$ docker inspect f10b0af660f9 | grep -i ipaddress
         "IPAddress": "172.17.0.4",
                 "IPAddress": "172.17.0.4",
 ```
-Wich of course meant I now had to use
+Which of course meant I now had to use
 ```
 mysql -h172.17.0.4
 ```

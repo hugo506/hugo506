@@ -18,7 +18,7 @@ I reviewed the initial code and apparently some of the parameters used in the ex
 
 
 The histogram and the table below seem to make the most sense, the plot is simply too busy to be able to get any insights. It's difficult to get a sense of the types of pages in each cluster but the table does show that all of my job bookmarks are in one group, cluster 4, which make sense. 
-In the histogram, cluster 4 has forbidden as a common word, and all those urls require login, so the web scraper must have gotten a 404 or some other error.
+In the histogram, cluster 4 has forbidden as a common word, and all those urls require login, so the web scraper must have gotten a 403 or some other error.
 
 
 Annnnd these are the actual urls in their respective groups:

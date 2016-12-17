@@ -1,4 +1,3 @@
-
 Title: Adding a Self Signed Certificate to "Whitelist" on Windows
 Date: 2016-11-18 08:00
 Tags: self signed certificate, php, windows, apache

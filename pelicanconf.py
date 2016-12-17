@@ -12,7 +12,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'en'
 
-THEME = 'pelican-hyde'
+THEME = '../pelican-hyde-custom'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -20,6 +20,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+PLUGIN_PATHS = ['../pelican-plugins']
+PLUGINS = ['share_post']
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -37,7 +40,7 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-BIO = "Hello! I'm Hugo Alvarado, working as Software Engineer, living deep in the jungle of data and pythons."
+BIO = "Hello! I'm Hugo Alvarado, Software Engineer, Husband, Dad, Roof Fixer, Python Tamer, Daydreamer"
 PROFILE_IMAGE = "avatar.jpg"
 
 GOOGLE_ANALYTICS = 'UA-85097254-1'

@@ -1,11 +1,14 @@
-#SVN Merging and conflict resolution with Meld
-
+Title: SVN Merging and conflict resolution with Meld
+Date: 2017-03-21 08:00
+Tags: svn, med, linux, merge
+Category: Tech
+Slug: svn-and-meld-setup
+Summary:
 
 This is a quick guide on setting up Meld with SVN (not everyone uses git, yet) on Linux (Ubuntu Mate 17.04). This is largely based on http://stackoverflow.com/questions/7252011/how-to-set-up-svn-conflict-resolution-with-meld.
 
 First, create an svn_merge_meld.py script somewhere like /home/username/bin/:
 
-	
 	#!/usr/bin/env python
 	# svn merge-tool python wrapper for meld 3.16.4 and svn, version 1.9.5 (r1770682)
 	import sys
@@ -28,20 +31,20 @@ First, create an svn_merge_meld.py script somewhere like /home/username/bin/:
 	except:
 	    print "Oh noes, an error!"
 	    sys.exit(-1)
-	    
+
 
 
 Then update the subversion config file in /home/username/.subversion/config:
 
 	merge-tool-cmd = /home/username/bin/svn_merge_meld.py
-	
-	
-Remember to 
-	
+
+
+Remember to
+
 	chmod +x /home/username/bin/svn_merge_meld.py
-	
-	
+
+
 Thats it!
-	
-	
+
+
 
